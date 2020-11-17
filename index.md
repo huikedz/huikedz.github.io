@@ -8,16 +8,16 @@
 <meta content="yes" name="apple-touch-fullscreen">
 <meta content="" name="keywords">
 <meta content="" name="description">
-<meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport"><link rel="icon" href="http://www.hkdzz.cn/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="./首页_files/font-awesome.css">
-<link rel="stylesheet" href="./首页_files/global.css">
-<link rel="stylesheet" href="./首页_files/widget.css">
-<link rel="stylesheet" href="./首页_files/variousComponents.css">
-<link rel="stylesheet" href="./首页_files/images.css">
-<link rel="stylesheet" href="./首页_files/theme.css">
-<link rel="stylesheet" href="./首页_files/color_0.css">
-<script src="./首页_files/jquery.min.js"></script>
+<meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport"><link rel="icon" href="http://www.hkdzz.cn/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/font-awesome.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/global.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/widget.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/variousComponents.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/images.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/theme.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/color_0.css">
+<script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jquery.min.js"></script>
 <!--[if !IE]><!-->
-<script src="./首页_files/base.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/base.js"></script>
 <!--<![endif]-->
 <!--[if gte IE 9]>
 <script src="/template/js/base.js"></script>
@@ -29,22 +29,22 @@
       <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
       <script src="//cdn.bootcss.com/modernizr/2.8.2/modernizr.min.js"></script>
     <![endif]-->
-<link href="./首页_files/lightbox.min.css" rel="stylesheet"><script src="./首页_files/jquery.SuperSlide.js"></script>
-<script src="./首页_files/common.js"></script>
-<script src="./首页_files/theme.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/lightbox.min.css" rel="stylesheet"><script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jquery.SuperSlide.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/common.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/theme.js"></script>
 <!-- feib -->
-<script type="text/javascript" src="./首页_files/layer.js"></script><link rel="stylesheet" href="./首页_files/layer.css" id="layui_layer_skinlayercss" style="">
-<script type="text/javascript" src="./首页_files/language.js"></script>
-<script type="text/javascript" src="./首页_files/ajax-url.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/layer.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/layer.css" id="layui_layer_skinlayercss" style="">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/language.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/ajax-url.js"></script>
 <!-- plugins -->
-<script type="text/javascript" src="./首页_files/jQuery.formsValidation.js"></script>
-<script type="text/javascript" src="./首页_files/jQuery.nodeCommon.js"></script>
-<script type="text/javascript" src="./首页_files/extend.js"></script>
-<link rel="stylesheet" href="./首页_files/animate.min.css">
-<script src="./首页_files/animate.min.js"></script> 
-<script type="text/javascript" src="./首页_files/components.js"></script>
-<script type="text/javascript" src="./首页_files/jquery.menu_style.js"></script>
-<script type="text/javascript" src="./首页_files/jquery.init.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jQuery.formsValidation.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jQuery.nodeCommon.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/extend.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/animate.min.css">
+<script src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/animate.min.js"></script> 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/components.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jquery.menu_style.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/jquery.init.js"></script>
 
 </head>
 <body style="font-size: 12px;">
@@ -65,7 +65,7 @@
                             <a title="" style="cursor:default;" href="javascript:void(0);">
                     <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/5f3e1a7b4e5fd.jpg">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/5f3e1a7b4e5fd.jpg">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -130,7 +130,7 @@
                             <a title="" style="cursor:default;" href="javascript:void(0);">
                     <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/5f3e170316849.png">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/5f3e170316849.png">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -146,7 +146,7 @@
                             <a title="" style="cursor:default;" href="javascript:void(0);">
                     <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/5f3e10ed3d2d6.png">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/5f3e10ed3d2d6.png">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -162,7 +162,7 @@
                             <a title="" style="cursor:default;" href="javascript:void(0);">
                     <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/5f3e172244978.png">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/5f3e172244978.png">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -210,7 +210,7 @@
                                 <a title="D11" href="javascript:void(0);">
                                         <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/599bc75f7c12f.jpg">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/599bc75f7c12f.jpg">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -250,7 +250,7 @@
                                 <a title="S11" href="javascript:void(0);">
                                         <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/599bc75ea7e86.jpg">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/599bc75ea7e86.jpg">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -286,7 +286,7 @@
                                 <a title="自动焊锡机烙铁头 焊锡机烙铁咀" href="javascript:void(0);">
                                         <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/599bc75e0cf13.jpg">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/599bc75e0cf13.jpg">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
@@ -306,7 +306,7 @@
                                 <a title="新款扭力计/扭力测试仪/分体式扭力计/瓶盖扭力计/螺丝批扭力计" href="javascript:void(0);">
                                         <div class="imgBB">
                         <div class="img">
-                            <img src="./首页_files/599bc75d7ee9f.jpg">
+                            <img src="https://cdn.jsdelivr.net/gh/huikedz/huikedz.github.io@2.0/hk/599bc75d7ee9f.jpg">
                         </div>
                     </div>
                     <div class="caption w-img-caption">
